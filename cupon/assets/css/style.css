@@ -1,0 +1,22 @@
+
+h5{
+    text-align: center;
+    color: white;
+}
+.sectionform{
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+}
+.button{
+    justify-content: center;
+    color: black;
+    margin-left: 680px; 
+}
+.precio{
+    text-align: right;
+    font-weight: bold;
+}
+.img{
+    margin: 0%;
+}
